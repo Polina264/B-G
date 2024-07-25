@@ -1,0 +1,616 @@
+header{
+	margin-top: -40px;
+	margin-left: -10px;
+	margin-right: 0px;
+	width: 100%;
+	height: 200px;
+	background:  url(ф3.jpg) no-repeat 20% 100%;
+}
+.top {
+      margin: -10px 100px 20px 550px;
+      width: 20%;  	  
+      background-blend-mode: multiply;
+      background-size: cover;
+      color: black;
+	  
+    }
+	
+	
+	.menu1 {
+	  margin-top: 10px;
+	  margin-left: 0px;
+      text-align: center;
+      width: 16.5%;
+      background-blend-mode: multiply;
+      background-color: Lavender;
+      background-size: cover;
+      color: #fff;
+	  border: 4px solid DarkSlateGray;
+    }
+	.ph1 {
+	  margin-top: -220px;
+	  margin-left: 250px;
+      width: 17%;
+	  height: 280px;
+      background-blend-mode: multiply;
+      background-size: cover;
+      color: #fff;
+	  border: 3px solid IndianRed;
+	  background-color: MistyRose;
+	}
+	.p {
+	  margin-top: -10px;
+	  margin-left: 15px;
+      width: 10%;
+	  height: 30px;
+      background-blend-mode: multiply;
+      background-color: MistyRose;
+      background-size: cover;
+      color: black;
+    }
+	.p1 {
+	  margin-top: -5px;
+	  margin-left: 15px;
+      width: 800%;
+	  height: 10px;
+      background-blend-mode: multiply;
+      background-color: MistyRose;
+      color: MediumVioletRed;
+    }
+	.but {
+	  margin-top: -85px;
+	  margin-left: 60px;
+      width: 30%;
+	  height: 30px;
+      background-blend-mode: multiply;
+    }
+	.menu2{
+	  margin-top: -3px;
+	  margin-left: 0px;
+      text-align: center;
+      width: 16.5%;
+      background-blend-mode: multiply;
+      background-color: Lavender;
+      background-size: cover;
+      color: #fff;
+	  border: 4px solid DarkSlateGray;
+    }
+	.menu3{
+	  margin-top: -3px;
+	  margin-left: 0px;
+      text-align: center;
+      width: 16.5%;
+      background-blend-mode: multiply;
+      background-color: Lavender;
+      background-size: cover;
+      color: #fff;
+	  border: 4px solid DarkSlateGray;
+    }
+	.ph2 {
+	  margin-top: -286px;
+	  margin-left: 520px;
+      width: 17%;
+	  height: 280px;
+      background-blend-mode: multiply;
+      background-size: cover;
+      color: #fff;
+	  border: 3px solid IndianRed;
+	  background-color: MistyRose;
+	}
+	.l {
+	  margin-top: -10px;
+	  margin-left: 15px;
+      width: 10%;
+	  height: 30px;
+      background-blend-mode: multiply;
+      background-color: MistyRose;
+      background-size: cover;
+      color: black;
+    }
+	.l2 {
+	  margin-top: -5px;
+	  margin-left: -15px;
+      width: 1000%;
+	  height: 10px;
+      background-blend-mode: multiply;
+      background-color: MistyRose;
+      color: MediumVioletRed;
+    }
+	.butt {
+	  margin-top: -85px;
+	  margin-left: 85px;
+      width: 27%;
+	  height: 30px;
+      background-blend-mode: multiply;
+    }
+	
+	.ph3 {
+	  margin-top: -286px;
+	  margin-left: 790px;
+      width: 17%;
+	  height: 280px;
+      background-blend-mode: multiply;
+      background-size: cover;
+      color: #fff;
+	  border: 3px solid IndianRed;
+	  background-color: MistyRose;
+	}
+	.n {
+	  margin-top: -10px;
+	  margin-left: 15px;
+      width: 10%;
+	  height: 30px;
+      background-blend-mode: multiply;
+      background-color: MistyRose;
+      background-size: cover;
+      color: black;
+    }
+	.n2 {
+	  margin-top: -5px;
+	  margin-left: 0px;
+      width: 900%;
+	  height: 10px;
+      background-blend-mode: multiply;
+      background-color: MistyRose;
+      color: MediumVioletRed;
+    }
+	.butto {
+	  margin-top: -85px;
+	  margin-left: 70px;
+      width: 27%;
+	  height: 30px;
+      background-blend-mode: multiply;
+    }
+	
+	.ph4 {
+	  margin-top: -286px;
+	  margin-left: 1060px;
+      width: 17%;
+	  height: 280px;
+      background-blend-mode: multiply;
+      background-size: cover;
+      color: #fff;
+	  border: 3px solid IndianRed;
+	  background-color: MistyRose;
+	}
+	.k {
+	  margin-top: -10px;
+	  margin-left: 15px;
+      width: 10%;
+	  height: 30px;
+      background-blend-mode: multiply;
+      background-color: MistyRose;
+      background-size: cover;
+      color: black;
+    }
+	.k2 {
+	  margin-top: -5px;
+	  margin-left: 0px;
+      width: 900%;
+	  height: 10px;
+      background-blend-mode: multiply;
+      background-color: MistyRose;
+      color: MediumVioletRed;
+    }
+	.bu {
+	  margin-top: -85px;
+	  margin-left: 70px;
+      width: 27%;
+	  height: 30px;
+      background-blend-mode: multiply;
+    }
+	
+	.ph5 {
+	  margin-top: 20px;
+	  margin-left: 0px;
+      width: 17%;
+	  height: 280px;
+      background-blend-mode: multiply;
+      background-size: cover;
+      color: #fff;
+	  border: 3px solid IndianRed;
+	  background-color: MistyRose;
+	}
+	.f {
+	  margin-top: -10px;
+	  margin-left: 15px;
+      width: 10%;
+	  height: 30px;
+      background-blend-mode: multiply;
+      background-color: MistyRose;
+      background-size: cover;
+      color: black;
+    }
+	.f2 {
+	  margin-top: -5px;
+	  margin-left: 0px;
+      width: 900%;
+	  height: 10px;
+      background-blend-mode: multiply;
+      background-color: MistyRose;
+      color: MediumVioletRed;
+    }
+	.b {
+	  margin-top: -85px;
+	  margin-left: 70px;
+      width: 27%;
+	  height: 30px;
+      background-blend-mode: multiply;
+    }
+	
+	.ph6 {
+	  margin-top: -287px;
+	  margin-left: 250px;
+      width: 17%;
+	  height: 280px;
+      background-blend-mode: multiply;
+      background-size: cover;
+      color: #fff;
+	  border: 3px solid IndianRed;
+	  background-color: MistyRose;
+	}
+	.w {
+	  margin-top: -10px;
+	  margin-left: 15px;
+      width: 10%;
+	  height: 30px;
+      background-blend-mode: multiply;
+      background-color: MistyRose;
+      background-size: cover;
+      color: black;
+    }
+	.w2 {
+	  margin-top: -5px;
+	  margin-left: 0px;
+      width: 900%;
+	  height: 10px;
+      background-blend-mode: multiply;
+      background-color: MistyRose;
+      color: MediumVioletRed;
+    }
+	.ba {
+	  margin-top: -85px;
+	  margin-left: 70px;
+      width: 27%;
+	  height: 30px;
+      background-blend-mode: multiply;
+    }
+	
+	.ph7 {
+	  margin-top: -286px;
+	  margin-left: 520px;
+      width: 17%;
+	  height: 280px;
+      background-blend-mode: multiply;
+      background-size: cover;
+      color: #fff;
+	  border: 3px solid IndianRed;
+	  background-color: MistyRose;
+	}
+	.r {
+	  margin-top: -10px;
+	  margin-left: 15px;
+      width: 10%;
+	  height: 30px;
+      background-blend-mode: multiply;
+      background-color: MistyRose;
+      background-size: cover;
+      color: black;
+    }
+	.r2 {
+	  margin-top: -5px;
+	  margin-left: 0px;
+      width: 900%;
+	  height: 10px;
+      background-blend-mode: multiply;
+      background-color: MistyRose;
+      color: MediumVioletRed;
+    }
+	.bat {
+	  margin-top: -85px;
+	  margin-left: 70px;
+      width: 27%;
+	  height: 30px;
+      background-blend-mode: multiply;
+    }
+	
+	.ph8 {
+	  margin-top: -286px;
+	  margin-left: 790px;
+      width: 17%;
+	  height: 280px;
+      background-blend-mode: multiply;
+      background-size: cover;
+      color: #fff;
+	  border: 3px solid IndianRed;
+	  background-color: MistyRose;
+	}
+	.n {
+	  margin-top: -10px;
+	  margin-left: 15px;
+      width: 10%;
+	  height: 30px;
+      background-blend-mode: multiply;
+      background-color: MistyRose;
+      background-size: cover;
+      color: black;
+    }
+	.n2 {
+	  margin-top: -5px;
+	  margin-left: 0px;
+      width: 900%;
+	  height: 10px;
+      background-blend-mode: multiply;
+      background-color: MistyRose;
+      color: MediumVioletRed;
+    }
+	.batt {
+	  margin-top: -85px;
+	  margin-left: 70px;
+      width: 27%;
+	  height: 30px;
+      background-blend-mode: multiply;
+    }
+	
+	.ph9 {
+	  margin-top: -286px;
+	  margin-left: 1060px;
+      width: 17%;
+	  height: 280px;
+      background-blend-mode: multiply;
+      background-size: cover;
+      color: #fff;
+	  border: 3px solid IndianRed;
+	  background-color: MistyRose;
+	}
+	.h {
+	  margin-top: -10px;
+	  margin-left: 15px;
+      width: 10%;
+	  height: 30px;
+      background-blend-mode: multiply;
+      background-color: MistyRose;
+      background-size: cover;
+      color: black;
+    }
+	.h2 {
+	  margin-top: -5px;
+	  margin-left: 0px;
+      width: 900%;
+	  height: 10px;
+      background-blend-mode: multiply;
+      background-color: MistyRose;
+      color: MediumVioletRed;
+    }
+	.bt {
+	  margin-top: -85px;
+	  margin-left: 70px;
+      width: 27%;
+	  height: 30px;
+      background-blend-mode: multiply;
+    }
+	.ka1 {
+	  margin-top: -110px;
+	  margin-left: 430px;
+      width: 25%;
+	  height: 290px;
+      background-blend-mode: multiply;
+      background-size: cover;
+      color: #fff;
+	  border: 3px solid IndianRed;
+	  background-color: MistyRose;
+	}
+	.bn {
+	  margin-top: 220px;
+	  margin-left: 60px;
+      width: 27%;
+	  height: 30px;
+      background-blend-mode: multiply;
+	}
+	  .txt {
+	  margin-top: -220px;
+	  margin-left: 40px;
+      width: 80%;
+	  height: 30px;
+      background-blend-mode: multiply;
+      background-color: MistyRose;
+      color: Crimson;
+    }
+	
+	.ka2 {
+	  margin-top: -295px;
+	  margin-left: 850px;
+      width: 25%;
+	  height: 290px;
+      background-blend-mode: multiply;
+      background-size: cover;
+      color: #fff;
+	  border: 3px solid IndianRed;
+	  background-color: MistyRose;
+	}
+	.bna {
+	  margin-top: 220px;
+	  margin-left: 60px;
+      width: 27%;
+	  height: 30px;
+      background-blend-mode: multiply;
+	}
+	  .txt1 {
+	  margin-top: -220px;
+	  margin-left: 40px;
+      width: 80%;
+	  height: 30px;
+      background-blend-mode: multiply;
+      background-color: MistyRose;
+      color: Crimson;
+    }
+	
+	.ka3 {
+	  margin-top: -170px;
+	  margin-left: 10px;
+      width: 25%;
+	  height: 290px;
+      background-blend-mode: multiply;
+      background-size: cover;
+      color: #fff;
+	  border: 3px solid IndianRed;
+	  background-color: MistyRose;
+	}
+	.bk {
+	  margin-top: 220px;
+	  margin-left: 60px;
+      width: 27%;
+	  height: 30px;
+      background-blend-mode: multiply;
+	}
+	  .txt2 {
+	  margin-top: -220px;
+	  margin-left: 40px;
+      width: 80%;
+	  height: 30px;
+      background-blend-mode: multiply;
+      background-color: MistyRose;
+      color: Crimson;
+    }
+	
+	.ka4 {
+	  margin-top: -110px;
+	  margin-left: 430px;
+      width: 25%;
+	  height: 290px;
+      background-blend-mode: multiply;
+      background-size: cover;
+      color: #fff;
+	  border: 3px solid IndianRed;
+	  background-color: MistyRose;
+	}
+	.be {
+	  margin-top: 220px;
+	  margin-left: 60px;
+      width: 27%;
+	  height: 30px;
+      background-blend-mode: multiply;
+	}
+	  .txt3 {
+	  margin-top: -220px;
+	  margin-left: 40px;
+      width: 80%;
+	  height: 30px;
+      background-blend-mode: multiply;
+      background-color: MistyRose;
+      color: Crimson;
+    }
+	
+	.ka5 {
+	  margin-top: -296px;
+	  margin-left: 850px;
+      width: 25%;
+	  height: 290px;
+      background-blend-mode: multiply;
+      background-size: cover;
+      color: #fff;
+	  border: 3px solid IndianRed;
+	  background-color: MistyRose;
+	}
+	.bl {
+	  margin-top: 220px;
+	  margin-left: 60px;
+      width: 27%;
+	  height: 30px;
+      background-blend-mode: multiply;
+	}
+	  .txt5 {
+	  margin-top: -220px;
+	  margin-left: 40px;
+      width: 80%;
+	  height: 30px;
+      background-blend-mode: multiply;
+      background-color: MistyRose;
+      color: Crimson;
+    }
+	
+	.ka6 {
+	  margin-top: -180px;
+	  margin-left: 10px;
+      width: 25%;
+	  height: 290px;
+      background-blend-mode: multiply;
+      background-size: cover;
+      color: #fff;
+	  border: 3px solid IndianRed;
+	  background-color: MistyRose;
+	}
+	.bd {
+	  margin-top: 220px;
+	  margin-left: 60px;
+      width: 27%;
+	  height: 30px;
+      background-blend-mode: multiply;
+	}
+	  .txt6 {
+	  margin-top: -220px;
+	  margin-left: 40px;
+      width: 80%;
+	  height: 30px;
+      background-blend-mode: multiply;
+      background-color: MistyRose;
+      color: Crimson;
+    }
+	
+	body {
+        background-color: Thistle; 
+    }
+    .profile {
+        width: 50%;
+        margin: 0 auto;
+        padding: 20px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        text-align: center;
+    }
+    .profile button {
+        margin: 10px;
+        padding: 10px 20px;
+        background-color: #4CAF50;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+    .info-block {
+		margin-top: -30px;
+		margin-left: 700px;
+		width: 30%;
+		height: 200px;
+        padding: 15px;
+        border-radius: 5px;
+		border: 1px solid Purple;
+    }
+    .testimonials {
+        margin-top: 50px;
+        padding: 20px;
+        border: 1px solid Purple;
+        border-radius: 5px;
+        background-color: Thistle;
+    }
+    .testimonials-slider {
+        display: flex;
+        overflow-x: auto;
+    }
+    .testimonial {
+        min-width: 300px;
+        padding: 10px;
+        margin-right: 20px;
+        border: 1px solid Purple;
+        border-radius: 5px;
+    }
+	
+	.inf {
+	  margin-top: -120px;
+	  margin-left: 300px;
+      width: 60%;
+	  height: 30px;
+      background-blend-mode: multiply;
+      color: Indigo;
+    }
+   
